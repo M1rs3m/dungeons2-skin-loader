@@ -57,7 +57,7 @@ Verified in game (Windows, Steam, UE5.6): texture replacement on four slots, sli
 **Not verified**: GUI restore on a clean machine, `--cape`, 64×32 input, soles up close, classic (4 px) arms on every slot, the whole GUI, other game versions (mesh offsets in `extract_from_game.py` match the current build; the script validates the mesh and stops on mismatch). No prebuilt `.exe`.
 
 ## Screenshots
-![](docs/img/menu_heroes_final.png) ![](docs/img/menu_mode_select_c0.png) ![](docs/img/final_hero_icon_zoom.png)
+![](docs/img/menu_heroes_final.png) ![](docs/img/final_hero_icon_zoom.png)
 ![](docs/img/ref_native.png) ![](docs/img/ref_ours.png) ![](docs/img/layout_map.png)
 Back-view and per-slot before/after screenshots are not included (checked in game by the project owner, no captured frames).
 

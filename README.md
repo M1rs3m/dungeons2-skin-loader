@@ -58,7 +58,6 @@ python skintool/build.py --skins examples/skins
 | | |
 |---|---|
 | ![](docs/img/menu_heroes_final.png) | Меню «Герои» с итоговым паком (иконка героя и модель) |
-| ![](docs/img/menu_mode_select_c0.png) | Экран выбора режима игры с другим слотом (Valorie = ModemIX) |
 | ![](docs/img/final_hero_icon_zoom.png) | Иконка героя крупно |
 | ![](docs/img/ref_native.png) ![](docs/img/ref_ours.png) | Нативная раскладка атласа и наша (рендеры) |
 | ![](docs/img/layout_map.png) | Раскладка атласа 64×64 → части меша |
