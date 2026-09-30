@@ -1,0 +1,22 @@
+Personal Use License / Лицензия для личного использования
+
+Copyright (c) 2026 M1rs3m
+
+Permission is granted to use, copy and modify the SOURCE CODE and documentation in this
+repository for personal, non-commercial purposes, on your own copy of Minecraft Dungeons II.
+
+Conditions / Условия:
+1. This project contains NO game files, keys or extracted game data. Do not add them to the
+   repository, releases or forks, and do not distribute them. The tool extracts what it needs
+   from the copy of the game you own; those files remain the property of their owners.
+   Проект не содержит игровых файлов и ключей. Не публикуйте и не распространяйте их.
+2. Do not use the tool to distribute modified game files. The generated Dungeons-ZZZ_Skins_P.* pack
+   is for use on your own machine only (cosmetic skins for your own character; not for online cheating).
+   Готовый пак предназначен только для вашего компьютера.
+3. Skins in examples/ belong to their authors and are included only as usage examples; they will be
+   removed on the author's request. They are NOT covered by this license.
+   Скины в examples/ принадлежат их авторам и не подпадают под эту лицензию; удаляются по просьбе автора.
+4. No commercial use. No warranty: the software is provided "as is"; use at your own risk.
+   Not affiliated with Mojang, Microsoft or Xbox Game Studios. "Minecraft" is a trademark of Mojang AB.
+5. Third-party: retoc (github.com/trumank/retoc, MIT) is downloaded from its official release and is not
+   part of this repository; Pillow (HPND) and numpy (BSD) are installed from PyPI.

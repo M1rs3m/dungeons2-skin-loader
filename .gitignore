@@ -1,0 +1,22 @@
+# Игровые данные и ключи - НИКОГДА не коммитить / game data and keys - never commit
+skintool/base/
+skintool/mesh/
+skintool/retoc/
+skintool/skintool_data/
+skintool/skins/
+skintool/config.json
+*.pak
+*.ucas
+*.utoc
+*.uasset
+*.uexp
+*.ubulk
+*.npy
+*.key
+*aes*
+.env
+# python
+__pycache__/
+*.pyc
+*.zip
+dist/
